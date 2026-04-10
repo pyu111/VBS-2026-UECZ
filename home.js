@@ -6,7 +6,7 @@ function registerNow() {
 }
 
 function goHome() {
-    window.location.href = "home.html";
+    window.location.href = "index.html";
 }
 // Highlight "How to Order" section if URL has #how-to-order with blinking effect
 window.addEventListener('DOMContentLoaded', () => {
